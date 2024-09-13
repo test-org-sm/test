@@ -1,3 +1,2 @@
-* @solmalisani
-*/dba/ @test-org-sm/test
-c/ @test-org-sm/team2
+* @test-org-sm/test @test-org-sm/team3
+*/dba/ @test-org-sm/team2
